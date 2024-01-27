@@ -1,0 +1,15 @@
+C:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module intermediate_sig
+
+Top level modules:
+	intermediate_sig
+
+} {} {}} C:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig_tb.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module intermediate_sig_tb
+
+Top level modules:
+	intermediate_sig_tb
+
+} {} {}}

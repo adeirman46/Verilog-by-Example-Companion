@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Irman/Documents/Verilog/in_out
+vintermediate_sig
+Z0 !s110 1699278812
+!i10b 1
+!s100 909m]66a94F@X_]ob;_I43
+IXfBcai=gGWl6>hSliaT5@2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Irman/Documents/Verilog/intermediate_sig
+w1699278698
+8C:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig.v
+FC:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1699278812.000000
+!s107 C:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vintermediate_sig_tb
+R0
+!i10b 1
+!s100 [GgU4<N[fP0GdCJfK@Y]d0
+IHAGmaCnj^L`dPD>H^[:1I2
+R1
+R2
+w1699278648
+8C:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig_tb.v
+FC:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/intermediate_sig/intermediate_sig_tb.v|
+!i113 1
+R5
+R6

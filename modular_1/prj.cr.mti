@@ -1,0 +1,15 @@
+C:/Users/Irman/Documents/Verilog/modular_1/modular_1.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/modular_1/modular_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module modular_1
+
+Top level modules:
+	modular_1
+
+} {} {}} C:/Users/Irman/Documents/Verilog/modular_1/state_machine_1.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/modular_1/state_machine_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module state_machine_1
+
+Top level modules:
+	state_machine_1
+
+} {} {}}

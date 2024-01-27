@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Irman/Documents/Verilog/state_machine_1
+vmodular_1
+Z0 !s110 1699700359
+!i10b 1
+!s100 >YDkKU0Ck]f=n^9O:Ra630
+IXM9N76^b;PMml63jdo_GI1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Irman/Documents/Verilog/modular_1
+w1699699748
+8C:/Users/Irman/Documents/Verilog/modular_1/modular_1.v
+FC:/Users/Irman/Documents/Verilog/modular_1/modular_1.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1699700359.000000
+!s107 C:/Users/Irman/Documents/Verilog/modular_1/modular_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/modular_1/modular_1.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vmodular_1_tb
+R0
+!i10b 1
+!s100 m:mh[iQ;ZaHmf9E_@KlHV3
+I1jRS5E>SUa1>aWBRao^;82
+R1
+R2
+w1699700335
+8C:/Users/Irman/Documents/Verilog/modular_1/modular_1_tb.v
+FC:/Users/Irman/Documents/Verilog/modular_1/modular_1_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Irman/Documents/Verilog/modular_1/modular_1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/modular_1/modular_1_tb.v|
+!i113 1
+R5
+R6
+vstate_machine_1
+R0
+!i10b 1
+!s100 3KQjfGjV0Lj65F3:[]H`U2
+I3==FnL3Z=l2o=da;5hJW02
+R1
+R2
+w1699699722
+8C:/Users/Irman/Documents/Verilog/modular_1/state_machine_1.v
+FC:/Users/Irman/Documents/Verilog/modular_1/state_machine_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Irman/Documents/Verilog/modular_1/state_machine_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/modular_1/state_machine_1.v|
+!i113 1
+R5
+R6
