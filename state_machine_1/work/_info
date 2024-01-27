@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Irman/Documents/Arsikom/arsikom/EL3111_4_20230921_13221058/0_Prelab/Tugas_5/bus_merger
+vstate_machine_1
+Z0 !s110 1699670933
+!i10b 1
+!s100 3KQjfGjV0Lj65F3:[]H`U2
+IU4cDP_PlkRRMP`C]mcA8l1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Irman/Documents/Verilog/state_machine_1
+w1699618992
+8C:/Users/Irman/Documents/Verilog/state_machine_1/state_machine_1.v
+FC:/Users/Irman/Documents/Verilog/state_machine_1/state_machine_1.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1699670933.000000
+!s107 C:/Users/Irman/Documents/Verilog/state_machine_1/state_machine_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/state_machine_1/state_machine_1.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vstate_machine_1_tb
+R0
+!i10b 1
+!s100 1VnJ`e8CK@:iPVf20fn501
+I_E57LA]TSLYz;PiYP@O6M1
+R1
+R2
+w1699670923
+8C:/Users/Irman/Documents/Verilog/state_machine_1/state_machine_1_tb.v
+FC:/Users/Irman/Documents/Verilog/state_machine_1/state_machine_1_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Irman/Documents/Verilog/state_machine_1/state_machine_1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/state_machine_1/state_machine_1_tb.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,8 @@
+C:/Users/Irman/Documents/Verilog/state_machine_1/state_machine_1_tb.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/state_machine_1/state_machine_1_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module state_machine_1_tb
+
+Top level modules:
+	state_machine_1_tb
+
+} {} {}}

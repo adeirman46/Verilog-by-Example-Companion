@@ -1,0 +1,15 @@
+C:/Users/Irman/Documents/Verilog/standard_mux/standard_mux.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/standard_mux/standard_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module standard_mux
+
+Top level modules:
+	standard_mux
+
+} {} {}} C:/Users/Irman/Documents/Verilog/standard_mux/standard_mux_tb.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/standard_mux/standard_mux_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module standard_mux_tb
+
+Top level modules:
+	standard_mux_tb
+
+} {} {}}

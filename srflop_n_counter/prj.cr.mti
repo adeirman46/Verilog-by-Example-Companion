@@ -1,0 +1,15 @@
+C:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module srflop_n_counter
+
+Top level modules:
+	srflop_n_counter
+
+} {} {}} C:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter_tb.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module srflop_n_counter_tb
+
+Top level modules:
+	srflop_n_counter_tb
+
+} {} {}}

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Irman/Documents/Verilog/dflop_en_clr
+vsrflop_n_counter
+Z0 !s110 1699493897
+!i10b 1
+!s100 kOiJMzz9BObd9Zn5F_VO=2
+IR3hIG_UO5G6?Gn4U2JB[V3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Irman/Documents/Verilog/srflop_n_counter
+w1699493596
+8C:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter.v
+FC:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1699493897.000000
+!s107 C:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vsrflop_n_counter_tb
+R0
+!i10b 1
+!s100 HYShiJO<K4XYPWf`D^eGE2
+I7<g5aPX[e?z9Pc1?^HcjJ0
+R1
+R2
+w1699493888
+8C:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter_tb.v
+FC:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/srflop_n_counter/srflop_n_counter_tb.v|
+!i113 1
+R5
+R6
