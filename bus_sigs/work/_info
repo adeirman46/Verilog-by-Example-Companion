@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Irman/Documents/Verilog/intermediate_sig
+vbus_sigs
+!s110 1699344948
+!i10b 1
+!s100 L;a6@ioXUUnfZYk469@<[3
+I2E<hkhDMR`[9UHmiMWG1M0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/Irman/Documents/Verilog/bus_sigs
+w1699344661
+8C:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs.v
+FC:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1699344947.000000
+!s107 C:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vbus_sigs_tb
+!s110 1699344947
+!i10b 1
+!s100 m2bB=UnYROimT7EVT3XWJ1
+IeJZoGKCN<@<7j4^BGggmi1
+R0
+R1
+w1699344899
+8C:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs_tb.v
+FC:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs_tb.v|
+!i113 1
+R4
+R5

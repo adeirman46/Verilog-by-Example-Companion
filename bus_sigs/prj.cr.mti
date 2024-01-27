@@ -1,0 +1,15 @@
+C:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bus_sigs
+
+Top level modules:
+	bus_sigs
+
+} {} {}} C:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs_tb.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/bus_sigs/bus_sigs_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bus_sigs_tb
+
+Top level modules:
+	bus_sigs_tb
+
+} {} {}}

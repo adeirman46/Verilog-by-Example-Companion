@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Irman/Documents/Arsikom/arsikom/EL3111_3_20230921_13221058/1_Lab/Tugas_3
+vadder
+Z0 !s110 1698209080
+!i10b 1
+!s100 B4m6APcF9U3mH`c8McAFi2
+IQafhPKVXZ2:Nzm21nVk0`0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Irman/Documents/Verilog/adder
+w1698206644
+8C:/Users/Irman/Documents/Verilog/adder/adder.v
+FC:/Users/Irman/Documents/Verilog/adder/adder.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1698209080.000000
+!s107 C:/Users/Irman/Documents/Verilog/adder/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/adder/adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vadder_tb
+R0
+!i10b 1
+!s100 QCCQe^Pl53nO8OggM_jSD0
+ICiC^P4HJI^m`8O]ZX;GM10
+R1
+R2
+w1698205875
+8C:/Users/Irman/Documents/Verilog/adder/adder_tb.v
+FC:/Users/Irman/Documents/Verilog/adder/adder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Irman/Documents/Verilog/adder/adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/adder/adder_tb.v|
+!i113 1
+R5
+R6

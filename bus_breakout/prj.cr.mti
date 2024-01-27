@@ -1,0 +1,8 @@
+C:/Users/Irman/Documents/Verilog/bus_breakout/bus_breakout.v {1 {vlog -work work -stats=none C:/Users/Irman/Documents/Verilog/bus_breakout/bus_breakout.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bus_breakout
+
+Top level modules:
+	bus_breakout
+
+} {} {}}

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Irman/Documents/Verilog/standard_mux
+vbus_breakout
+Z0 !s110 1699347632
+!i10b 1
+!s100 `V_0YaVHCCCG2bg2TQLJ[2
+I_7QAGYg6b?I_ROb8Ne7=22
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Irman/Documents/Verilog/bus_breakout
+w1699347217
+8C:/Users/Irman/Documents/Verilog/bus_breakout/bus_breakout.v
+FC:/Users/Irman/Documents/Verilog/bus_breakout/bus_breakout.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1699347632.000000
+!s107 C:/Users/Irman/Documents/Verilog/bus_breakout/bus_breakout.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/bus_breakout/bus_breakout.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vbus_breakout_tb
+R0
+!i10b 1
+!s100 Q0WJc8;gc12@@L0WU;7[_0
+IgNMTM[2?XP5:Sj2m3zh_V2
+R1
+R2
+w1699347619
+8C:/Users/Irman/Documents/Verilog/bus_breakout/bus_breakout_tb.v
+FC:/Users/Irman/Documents/Verilog/bus_breakout/bus_breakout_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Irman/Documents/Verilog/bus_breakout/bus_breakout_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Irman/Documents/Verilog/bus_breakout/bus_breakout_tb.v|
+!i113 1
+R5
+R6
